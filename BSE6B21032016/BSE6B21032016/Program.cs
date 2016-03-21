@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BSE6B21032016
 {
+    //THIS IS INFORMATION
     delegate void Del(int a, int b);
 
     class student<T, U>
